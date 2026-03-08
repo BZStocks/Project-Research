@@ -21,3 +21,14 @@
 | Project | Description |
 |---------|-------------|
 | [ReplayFileFromWorld](https://github.com/BZStocks/ReplayFileFromWorld) | Generates replay files for radar preview utility. |
+
+
+## Known issues:
+| Issue | Description |
+|-------|-------------|
+| BZFS is barebones | No easy way to build/create rotations/mapchanges and more. |
+| List Server is complicated | Not good from a research and testing standpoint. |
+| Version complications | Things aren't straightforward, nor does an easy way to update or backport configs exist. |
+| Map generation | Poor to non-existant map generators and multiple languages/dependencies. |
+| Plugins and versions | Nothing handles various plugins and their dependencies. Complex and counter-intuitive. |
+| Lack of good communications | Voice chat, global chat...etc don't exist in BZ and no streamlined option exists. |
