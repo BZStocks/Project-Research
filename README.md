@@ -32,3 +32,7 @@
 | Map generation | Poor to non-existant map generators and multiple languages/dependencies. |
 | Plugins and versions | Nothing handles various plugins and their dependencies. Complex and counter-intuitive. |
 | Lack of good communications | Voice chat, global chat...etc don't exist in BZ and no streamlined option exists. |
+| Complex setup | BZFS or BZFlag isn't a drop in solution, deploying is more complex compare to normal. |
+| Permissions and group lists | From versions altering configs to groups and order of groups, registration and more. |
+
+
