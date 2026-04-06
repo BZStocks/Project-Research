@@ -34,5 +34,7 @@
 | Lack of good communications | Voice chat, global chat...etc don't exist in BZ and no streamlined option exists. |
 | Complex setup | BZFS or BZFlag isn't a drop in solution, deploying is more complex compare to normal. |
 | Permissions and group lists | From versions altering configs to groups and order of groups, registration and more. |
+| Lack of APIs | Data remains scattered, no simple way of handling vast amounts of varied data from various sources. |
+| Lack of converters | Data provided in different formats creates a headache when attempting to create solutions. |
 
 
