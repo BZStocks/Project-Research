@@ -36,5 +36,9 @@
 | Permissions and group lists | From versions altering configs to groups and order of groups, registration and more. |
 | Lack of APIs | Data remains scattered, no simple way of handling vast amounts of varied data from various sources. |
 | Lack of converters | Data provided in different formats creates a headache when attempting to create solutions. |
+| Build system is poor | The build process can easily fail and make it difficult to deploy. |
+| Parsers are poor | Several issues. |
+| Memory spikes | Usually on loading large or complex worlds. |
+
 
 
