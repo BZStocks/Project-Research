@@ -39,6 +39,6 @@
 | Build system is poor | The build process can easily fail and make it difficult to deploy. |
 | Parsers are poor | Several issues. |
 | Memory spikes | Usually on loading large or complex worlds. |
-
+| Install and deployment | Takes more commands per usual. |
 
 
