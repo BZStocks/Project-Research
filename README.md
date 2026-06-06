@@ -1,6 +1,14 @@
 # Project-Research
 > BZStocks's leading research and solutions
 
+## Opus Magnum:
+> Note: Incomplete listing. Pending review for additional listings.
+
+| Capabilities | Details |
+|--------------|---------|
+| Global Groups Management | Can create or modify global groups on the fly |
+| Server Management | Manages multiple BZFS processes |
+| Plugin Manager | Handles plugins and their workflows/limitations |
 
 ## Main Projects:
 | Project | Description |
